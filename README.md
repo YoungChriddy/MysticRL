@@ -1,2 +1,0 @@
-# MysticRL
-Minecraft Server ModPack
